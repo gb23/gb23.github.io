@@ -4,7 +4,7 @@ header-img: img/home-bg.png
 email: gregbenj@gmail.com
 copyright_name: gb23
 description: > # this means to ignore newlines until "baseurl:"
-  Please be advised: we have Code Greg unfolding.
+  Please be advised: we have a Code Greg unfolding.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gb23
