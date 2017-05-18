@@ -1,0 +1,44 @@
+---
+layout: post
+title:  Hindsight is 10100 / 10100
+date:   2017-05-18 04:29:57 +0000
+---
+
+
+**Why did you decide to learn software development?**
+
+
+It's funny how I seemed to know what I wanted when I was a kid.  Along the way to the present, there were detours and other interests that I needed to pursue.  Now I am back to being a kid again, and it feels great. Let me explain what I mean...
+
+Elementary school: I remember clearly how the computer lab was my favorite place to learn.  Steve Jobs had returned to Apple and the school district had just purchased his brand new computers -- the ones that had the translucent, aqua glow to them (like the revolutionary iMacs).  Remember them?  They were my machines of learning.  This was before the widespread use of the Internet, but there were tons of educational programs.  [Take this trip down memory lane and actually play the software!](https://archive.org/details/softwarelibrary_apple_mecc)
+![Power Mac G3](http://www.everymac.com/images/cpu_pictures/apple_powermac_g3bondi.jpg)
+
+
+
+
+Middle school: TI-83 calculator programming time.  Screw linking the calculator up to a keyboard, these were the days of flip phone texting with T9 keyboards, so I had the patience to actually write tons of programs using the tiny calculator buttons.  There was immense satisfaction when I wrote a program that was useful for my classmates.  I remember one teacher's grading scheme followed a complicated flow chart, so I programmed a 'calculate my grade' app (before apps were 'cool').  My classmates loved it, so we'd link up our calculators.  It only took a few minutes to copy over to another student's calcuator.  Then I'd do this about 30 times to give it to everyone in the class.  Easy peasy.
+
+![Linking up the TIs](http://lrs.ed.uiuc.edu/students/sramsdell/TI83linked.JPG)
+
+
+
+
+
+
+////Detour/////
+
+In high school I spent my time preparing for college, and in college, I spent my time preparing for graduate school. (Though in college, I snuck in quite a few computer science courses to feed my curiosities.) After some confusion with what to do with my life, I received my Master of Science in Biophyics. Now, I no longer had to spend my time preparing for more school, another degree.  It was a sense of freedom that I had not had since my early years.  Naturally, my interests once again gravitated towards the computer and how I wanted to create experiences for users that made them feel great and provided them valuable tools.  
+
+
+Hindsight is '10100 / 10100', and looking back on my story it's too easy for me to critique my path.  Truth be told though, my vast knowledge of biology, general and organic chemistry, physics, and engineering mathematics have given me a strong knowledge-base, so now that I am a kid again, I'll be a pretty well-read one!
+
+
+
+
+
+
+
+
+
+
+
