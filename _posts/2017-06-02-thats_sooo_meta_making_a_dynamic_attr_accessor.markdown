@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  That's Sooo Meta: Making a dynamic attr_accessor
+title:  That's Sooo Meta - Making a dynamic attr_accessor
 date:   2017-06-02 09:31:18 -0400
 ---
 
