@@ -135,8 +135,13 @@ def shamwow
       puts "Wow!"
 end```
 
-  ![shamwow](http://www5.esc13.net/thescoop/insight/files/2014/09/Shamwow.jpg)
-	Note: I love how this says "perfect for any situation."  Think of a situation: say it's getting a flat tire on a really         hot day on a way to an important meeting or having the girl of your dreams break up with you. Then think about how the shamwow and how it really is perfect for these situations.
+  ![](http://www5.esc13.net/thescoop/insight/files/2014/09/Shamwow.jpg)
+	
+	
+	
+	
+	
+Note: I love how this ad says "perfect for any situation."  Think of a situation: say, getting a flat tire on a really hot day that is going to make you late for an important meeting or having the girl of your dreams break up with you.  Then think about how the shamwow really is perfect for these situations.
 
 
 More information on these meta methods below:
@@ -144,6 +149,9 @@ More information on these meta methods below:
 * [define_properties method](https://ruby-doc.org/core-2.2.0/Module.html#method-i-define_method)
 * [instance_variable_set](https://ruby-doc.org/core-2.4.1/Object.html#method-i-instance_variable_set)
 * [instance_variable_get](https://ruby-doc.org/core-2.4.1/Object.html#method-i-instance_variable_get)
+
+
+june 2, 2017
 
 
 
