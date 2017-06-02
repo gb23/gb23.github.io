@@ -136,7 +136,7 @@ def shamwow
 end```
 
   ![shamwow](http://www5.esc13.net/thescoop/insight/files/2014/09/Shamwow.jpg)
-	Note: I love how this says "perfect for any situation."  Think of a situation.  Say, getting a flat tire on your car on a really hot day or having the girl of your dreams break up with you.  The shamwow really is perfect for any situation.
+	Note: I love how this says "perfect for any situation."  Think of a situation: say it's getting a flat tire on a really         hot day on a way to an important meeting or having the girl of your dreams break up with you. Then think about how the shamwow and how it really is perfect for these situations.
 
 
 More information on these meta methods below:
