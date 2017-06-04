@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  That's Sooo Meta - Making a dynamic attr_accessor
+title:  That's Sooo Meta. Making a dynamic attr_accessor
 date:   2017-06-02 09:31:18 -0400
 ---
 
 The concept of metaprogramming is really really neat.  It seems magical to me that you can write some code that then writes additional code itself.  As an exercise, I decided to create a class that had zero hard-coded instance variables and, additionally, zero hard-coded getter and setter methods for those instance variables.  
-Shout out to Avi for demonstrating the code behind a more static attr_accessor and inspiring me to create this more dyanmic version!
+Shout out to Avi for demonstrating the code behind a more static attr_accessor and inspiring me to create this more dynamic version!
 
 > At runtime, the user tells the program, "I want the class to be able to get and set instance variables of my choosing." This is essentially a dynamic attr_accessor.
 
@@ -133,7 +133,8 @@ end
 ```
 def shamwow
       puts "Wow!"
-end```
+end
+```
 
   ![](http://www5.esc13.net/thescoop/insight/files/2014/09/Shamwow.jpg)
 	
@@ -144,14 +145,10 @@ end```
 Note: I love how this ad says "perfect for any situation."  Think of a situation: say, getting a flat tire on a really hot day that is going to make you late for an important meeting or having the girl of your dreams break up with you.  Then think about how the shamwow really is perfect for these situations.
 
 
-More information on these meta methods below:
+More information on these meta methods in links below:
 
 * [define_properties method](https://ruby-doc.org/core-2.2.0/Module.html#method-i-define_method)
 * [instance_variable_set](https://ruby-doc.org/core-2.4.1/Object.html#method-i-instance_variable_set)
 * [instance_variable_get](https://ruby-doc.org/core-2.4.1/Object.html#method-i-instance_variable_get)
-
-
-june 2, 2017
-
 
 
