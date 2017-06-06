@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  That's Sooo Meta. Making a dynamic attr_accessor
+title:  "That's Sooo Meta! Making a dynamic attr_accessor"
 date:   2017-06-02 09:31:18 -0400
 ---
 
@@ -123,7 +123,7 @@ end
 
 * The class method ```init_getter_and_setter``` will then call the method ```define_properties``` to create the getter and setter methods. ```define_properties``` takes ```@@attributes``` as a parameter and, for each array index value, will define the getter method based on that value and the setter method based on that value concatenated with "=". This is done using the ```define_method``` method.  Now that the method names have been defined, to actually enable them get and set, you use ```instance_variable_get``` and ```instance_variable_set``` methods.
 
-* Here's an example of what define_method is doing:
+* Here's an example of what ```define_method``` is doing:
 ```
 define_method("shamwow") do
       puts "Wow!"
