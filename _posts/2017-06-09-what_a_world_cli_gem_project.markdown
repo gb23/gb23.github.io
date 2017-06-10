@@ -37,7 +37,7 @@ Once I had a general sense of class design, I started with the basic command lin
 
 **Nokogiri CSS selectors failed me -- welcome, XPath.**
 
-I was difficult to hone in on the specific information I needed.  I could obtain the data, but I'd have to iterate through what I have scraped until I found what I was looking for.  I needed a more specific way of using a 'fine-toothed saw'. I found searching by XPath online.  [A great XPath tutorial](http://zvon.org/xxl/XPathTutorial/General/examples.html).  XPath is a syntax for defining different parts of an XML document, and the expression for selecting specific nodes or node sets in the document looks very much like a file directory syntax that you use in your terminal.  [More information on XPath](https://www.w3schools.com/xml/xpath_intro.asp).
+It was difficult to hone in on the specific information I needed.  I could obtain the data, but I'd have to iterate through what I have scraped until I found what I was looking for.  I needed a more specific way of using a 'fine-toothed saw'. I found searching by XPath online.  [A great XPath tutorial](http://zvon.org/xxl/XPathTutorial/General/examples.html).  XPath is a syntax for defining different parts of an XML document, and the expression for selecting specific nodes or node sets in the document looks very much like a file directory syntax that you use in your terminal.  [More information on XPath](https://www.w3schools.com/xml/xpath_intro.asp).
 
 
 Can't wait for the next project!
