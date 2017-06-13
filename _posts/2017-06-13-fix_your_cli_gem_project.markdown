@@ -13,7 +13,9 @@ You go through the effort to make a really good CLI gem project and then what ha
 I wrote a piece of code that fixes this, and, man, what a better experience it is to run my gem.  It's super easy to use.  Instead of writing *puts "Display this text"* in your code, you simply write *"Display this text".print_fit* and that's it!
 
 Here's how I did it.
-# Code
+
+**Code**
+
 In your environment file:  require 'io/console'
 
 In another file put this code:
@@ -47,7 +49,8 @@ class String
 end
 ```
 
-# Explanation
+**Explanation** 
+
 In order to get the text not to split at the end of the line, the program needs to know how big your terminal window is. The require 'io/console' that is placed in your environment file allows you to use the **winsize -> [rows, columns]** method of this standard library.  IO.console.winsize returns an array, where index 0 is the size of the window vetically and index 1 is the size of the window horizontally.  Since we are concerned with text getting split at the end of a line of text, we want to store the horizontal window size. That is done in the code here: 
 ```
 dimensions = IO.console.winsize
