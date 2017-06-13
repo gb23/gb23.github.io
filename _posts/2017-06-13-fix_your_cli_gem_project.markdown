@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Fix Your CLI Gem Project. "
+title:  "Fix Your CLI Gem Project Print Output "
 date:   2017-06-13 01:07:51 -0400
 ---
 
