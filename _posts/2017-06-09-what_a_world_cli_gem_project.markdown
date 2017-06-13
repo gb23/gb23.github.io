@@ -4,6 +4,10 @@ title:  "What A World CLI gem project"
 date:   2017-06-09 16:29:27 -0400
 ---
 
+
+Check out the gem!: 
+[![1.1](https://badge.fury.io/rb/what-a-world.svg)](https://badge.fury.io/rb/what-a-world)
+
 What a World!  Exploring the world is always an adventure.  This gem provides C.I.A. data on transnational issues from various locations arould the planet. Caution: Results may be shocking.  The idea behind this gem is to present the user with troubling issues with the intent of raising awareness of global issues.  Hopefully, you will learn something new! 
 
 [Github Repo](https://github.com/gb23/what-a-world-cli-gem).
