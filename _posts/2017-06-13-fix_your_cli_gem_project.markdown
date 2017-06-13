@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Fix Your CLI Gem Project: "
-date:   2017-06-13 05:07:51 +0000
+title:  "Fix Your CLI Gem Project. "
+date:   2017-06-13 01:07:51 -0400
 ---
 
 # Stop Text From Getting Split At The End Of A Line!
 
 You go through the effort to make a really good CLI gem project and then what happens?   You print info, but ```unfortun```   
-```ately ``` the text gets split at the end of the line like that.
+
+```ately ``` the text gets split at the end of the line sort of like that.
 
 I wrote a piece of code that fixes this, and, man, what a better experience it is to run my gem.  It's super easy to use.  Instead of writing *puts "Display this text"* in your code, you simply write *"Display this text".print_fit* and that's it!
 
