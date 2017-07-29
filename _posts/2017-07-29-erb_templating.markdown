@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "ERB templating!"
-date:   2017-07-29 00:20:37 +0000
+date:   2017-07-28 20:20:38 -0400
 ---
 
 Bust open an irb session and follow along, if you want.  ERB, or embedded ruby, is a templating tool for ruby.  It provides a way to inject ruby code into text.  Templating is a great timesaver -- it allows you to create a framework for a document, yet customize the contents however you choose.  By the end of this blog entry, I will have created a ruby class template that creates a new class file based off of data provided by the user: the class name, any attr_accessors, any attr_readers, and/or any attr_writers.  
-# Simple ERB play
+
+**Simple ERB play**
+
 For now, let's examine what exactly is going on when we create an instance of an ERB class.  
 
 If we create a string,
@@ -49,7 +51,7 @@ So, in summary: we took a string and injected it with ruby code that we wanted t
 
 That's neat, but templating is more powerful than that.
 
-# Creating Ruby Class Template
+**Creating Ruby Class Template**
 
 Let's template a ruby class using ERB.  A Ruby class looks something like this:
 ```
