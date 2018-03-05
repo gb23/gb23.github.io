@@ -1,11 +1,11 @@
 ---
 layout: post
 title:      "React Refs Use Case"
-date:       2018-03-05 03:23:00 +0000
+date:       2018-03-04 22:23:01 -0500
 permalink:  react_refs_use_case
 ---
 
-For my react-redux project, I designed the user experience to center around navigating through different cards (divs) with the arrow keys on the keyboard. Check out the walkthrough of the app on YouTube for a full understanding of the project. [link to be posted].  You'll notice that in the project, when a user navigates to a new card, React re-renders the new content and maintains focus (selection/highlight) on the card to which the user navigated.  The maintained focus on the proper card is accomplished using the concept of Refs in React.  
+For my react-redux project, I designed the user experience to center around navigating through different cards (divs) with the arrow keys on the keyboard. [Check out the walkthrough of the app on YouTube for a full understanding of the project](https://youtu.be/qfUczPFvS6U).   You'll notice that in the project, when a user navigates to a new card, React re-renders the new content and maintains focus (selection/highlight) on the card to which the user navigated.  The maintained focus on the proper card is accomplished using the concept of Refs in React.  
 
 **Without implementing refs in my project, a user would select a div and when the component re-renders, the selection of the card would go away, causing the user to have to reselect the card. Ugh.  The correct behavior, accomplished with refs: The user selects a card, content is updated, and the card is still selected. Yay!**
 
